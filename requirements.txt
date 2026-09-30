@@ -1,0 +1,9 @@
+transformers>=4.51
+accelerate
+torch
+sentence-transformers
+chromadb
+langchain-text-splitters
+pypdf
+gradio
+pandas
